@@ -34,12 +34,6 @@ Email: preethamv2k@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/preethamv007/)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Preethamv001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Preethamv001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Preethamv001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
