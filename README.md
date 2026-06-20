@@ -1,4 +1,5 @@
 Hi there 👋 I'm Preetham Varma
+
 Full‑Stack .NET Developer · Angular · C# · SQL · AWS / Azure
 4 years building web apps, APIs and CI/CD pipelines. I'm passionate about UI/UX and turning designs into production-ready applications.
 
